@@ -27,3 +27,4 @@ jobs:
           git add .
           git commit -m "generated" || exit 0
           git push
+          
